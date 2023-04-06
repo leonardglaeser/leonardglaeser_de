@@ -83,21 +83,21 @@ particlesJS('particles-js',
             },
             "modes": {
                 "grab": {
-                    "distance": 400,
+                    "distance": 200,
                     "line_linked": {
                         "opacity": 1
                     }
                 },
                 "bubble": {
-                    "distance": 400,
-                    "size": 40,
+                    "distance":200,
+                    "size": 20,
                     "duration": 2,
                     "opacity": 8,
                     "speed": 3
                 },
                 "repulse": {
-                    "distance": 200,
-                    "duration": 0.4
+                    "distance": 100,
+                    "duration": 0.6
                 },
                 "push": {
                     "particles_nb": 4
