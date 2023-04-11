@@ -9,4 +9,4 @@
 
 ## Credits
 
-- [particles.js](github.com/VincentGarreau/particles.js)
+- [particles.js](https://github.com/VincentGarreau/particles.js)
