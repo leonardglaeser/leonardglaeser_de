@@ -1,5 +1,7 @@
 # My Website
 
+[Direct Link to website](https://leonardglaeser.de/)
+
 ## State
 
 - currently WIP
